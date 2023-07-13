@@ -1,0 +1,12 @@
+{
+  "name": "giphyvision-reboot",
+  "version": "1.0.0",
+  "description": "Rewrite of Giphyvision demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Giphyvision"],
+  "author": "Dan Brown",
+  "license": "ISC"
+}
